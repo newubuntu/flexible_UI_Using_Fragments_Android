@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">NewByVivz</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+
+    <string-array name="chapters">
+        <item>Chapter 1</item>
+        <item>Chapter 2</item>
+        <item>Chapter 3</item>
+        <item>Chapter 4</item>
+    </string-array>
+    <string-array name="description">
+        <item>Description 1</item>
+        <item>Description 2</item>
+        <item>Description 3</item>
+        <item>Description 4</item>
+    </string-array>
+
+    <string name="title_activity_another">MainActivity</string>
+
+</resources>
